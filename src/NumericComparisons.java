@@ -1,4 +1,4 @@
-// 10.21 Charly. This program should tell you some basic information of the values you enter. 
+// 10.21 Charly. This program should tell you some basic information of the values you enter.
 import java.util.Scanner;
 
 public class NumericComparisons {
