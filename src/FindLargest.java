@@ -1,4 +1,4 @@
-// 10/22 Charly. This program should be able to tell the larger value that you entered. 
+// 10/22 Charly. This program should be able to tell the larger value that you entered.
 import java.util.Scanner;
 
 public class FindLargest {
