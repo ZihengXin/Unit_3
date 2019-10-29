@@ -1,4 +1,4 @@
-// 10/29 Charly. This program should be able to tell if the two values have a common number. 
+// 10/29 Charly. This program should be able to tell if the two values have a common number.
 public class ShareDigit {
     public static void main(String[] args) {
         System.out.println(ShareDigit(18, 79));
