@@ -1,4 +1,4 @@
-// 10/29 Charly. This programs should tell you how many roots does a quadratic equation has. 
+// 10/29 Charly. This programs should tell you how many roots does a quadratic equation has.
 import java.util.Scanner;
 
 public class DiscriminantAndRoots {
