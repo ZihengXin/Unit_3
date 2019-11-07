@@ -31,7 +31,7 @@ public class RockPaperScissors {
         String computerWin = "The computer wins!";
         String personWin = "You win!";
         String tied = "You tied!";
-        String accident= "You have entered invalid choice.";
+        String accident = "You have entered invalid choice.";
         // This includes the situations that should never occur.
         if ((person. equals("scissors") && computer.equals("scissors"))
                 ||(person. equals("rock") && computer. equals("rock"))
