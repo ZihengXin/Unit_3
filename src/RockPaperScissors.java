@@ -6,8 +6,8 @@ public class RockPaperScissors {
         System.out.println("Please choose either rock, paper, or scissors.");
         String computer = getComputerChoice();
         String person = getUserChoice();
-        System.out.println("You chose "+person+".");
-        System.out.println("The computer chose "+computer+".");
+        System.out.println("You chose " + person + ".");
+        System.out.println("The computer chose " + computer + ".");
         System.out.println(whoWins(computer,person));
     }
     public static String getUserChoice(){
@@ -17,7 +17,7 @@ public class RockPaperScissors {
         return person;
     }
     public static String getComputerChoice(){
-        int num= (int)(Math.random()*3);
+        int num = (int)(Math.random()*3);
         // Here is how the computer get its choice
         if (num == 0)
             return "rock";
