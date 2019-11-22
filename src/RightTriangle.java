@@ -1,5 +1,5 @@
 // 11/22 Charly. This program should be able to tell three length can form a right triangle or not.
-// I have just correct my program into the form you want. 
+// I have just correct my program into the form you want.
 import java.util.Scanner;
 
 public class RightTriangle {
